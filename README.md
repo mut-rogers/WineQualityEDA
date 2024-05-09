@@ -1,5 +1,4 @@
 # WineQualityEDA
-<<<<<<< HEAD
 A Simple Exploratory Data Analysis for the Wine Quality Dataset
 
 # Description of the Dataset
@@ -19,8 +18,3 @@ Here's a brief overview of the features typically found in the Wine Quality Data
 - Sulphates: The amount of sulphates in the wine.
 - Alcohol: The alcohol content of the wine.
 - Quality: The quality rating of the wine, typically ranging from 3 to 8 for white wine and from 4 to 8 for red wine.
-=======
-A Simple Exploratory Data Analysis for the Wine Quality Dataset 
-
-Wine Quality Datasets is a 
->>>>>>> origini/main
